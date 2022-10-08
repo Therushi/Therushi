@@ -24,7 +24,7 @@
 - 👀 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 I’m currently learning JavaScript, Node, Angular, MongoDB...
 - 💞️ Exploring Technical Content Writing.
-- 📫 How to reach me ...
+- 📫 How to reach me @rushidhanawade123@gmail.com
 
 ---
 
