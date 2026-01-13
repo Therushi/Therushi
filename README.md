@@ -51,37 +51,12 @@ const rushikesh = {
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/Therushi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Therushi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Therushi&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Therushi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Therushi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8"/>
-  </a>
-</p>
-
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/Therushi">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Therushi&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true" alt="Contribution Graph"/>
   </a>
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Therushi&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15"/>
-  </a>
-</p>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -138,18 +113,6 @@ const rushikesh = {
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
 </p>
 </details>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Therushi/Therushi/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Therushi/Therushi/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Therushi/Therushi/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-> 🔧 **Note:** The snake animation requires a GitHub Action to be set up. See the workflow file in `.github/workflows/snake.yml`
 
 ---
 
